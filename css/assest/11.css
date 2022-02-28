@@ -1,0 +1,19 @@
+body {
+  background-image: url(../img/more-leaves.png);
+}
+.arkaplan {
+  width: 100%;
+  height: 300px;
+  background-image: url(../img/right-arrow.png);
+  border: 1px solid red;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.arkaplan2 {
+  width: 100%;
+  height: 300px;
+  background-image: url(../img/image-05.jpg);
+  background-size: cover;
+  background-position: center;
+  border: 1px solid red;
+}

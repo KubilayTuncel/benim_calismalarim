@@ -1,0 +1,16 @@
+.kutu {
+  font-size: 25px;
+  color: red;
+}
+@media (min-width: 768) {
+  .kutu {
+    font-size: 35px;
+    color: blue;
+  }
+  .menu {
+    display: block;
+  }
+}
+.menu {
+  display: none;
+}

@@ -1,0 +1,10 @@
+.kutu1 {
+  background-color: blueviolet;
+  padding: 15px;
+  margin: 30px;
+}
+.kutu2 {
+  background-color: chartreuse;
+  padding: 30px;
+  margin: 30px 40px 50px 60px;
+}
